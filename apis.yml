@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://editor.codecogs.com/docs/4-LaTeX_rendering.php
 common:
+  - type: DomainSecurity
+    url: security/codecogs-domain-security.yml
   - type: Website
     url: https://editor.codecogs.com/docs/4-LaTeX_rendering.php
   - type: PublicAPIsListing
