@@ -33,13 +33,13 @@ x-category: "Science & Math"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Science And Math
   - Public APIs
+  - Mathematics
+  - LaTeX
 apis:
   - name: CodeCogs
     description: "Render LaTeX equations in PNG, GIF, SVG, EMF, PDF, JSON, or download formats with styling options"
     humanURL: https://editor.codecogs.com/docs/4-LaTeX_rendering.php
-    baseURL: https://editor.codecogs.com/docs/4-LaTeX_rendering.php
     tags:
       - Science And Math
     properties:
@@ -55,3 +55,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Science And Math
