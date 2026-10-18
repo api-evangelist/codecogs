@@ -40,7 +40,8 @@ apis:
   - name: CodeCogs
     description: "Render LaTeX equations in PNG, GIF, SVG, EMF, PDF, JSON, or download formats with styling options"
     humanURL: https://editor.codecogs.com/docs/4-LaTeX_rendering.php
-    tags:
+    tags: []
+    tags_raw:
       - Science And Math
     properties:
       - type: Documentation
